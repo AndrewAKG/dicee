@@ -8,7 +8,7 @@
 
 A Las Vegas dice app. You can make the die roll when you press on the dice. With this app in your pocket, you’ll be able to settle any score on the go for any game play!
 
-![Finished App](https://github.com/AndrewAKG/images/blob/master/lucky_dice.gif)
+![Finished App](https://github.com/AndrewAKG/lucky-dice/blob/master/images/lucky_dice.gif)
 
 ## What is learned
 
